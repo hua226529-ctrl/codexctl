@@ -29,6 +29,10 @@ Codex 的登录态和模型请求去向本是绑定的。这个工具把它们�
 
 工具只负责改配置文件并自动备份，不提供账号，也不提供中转站。
 
+## 下载
+
+前往 **[Releases 页面](https://github.com/hua226529-ctrl/codexctl/releases/latest)** 下载最新版的 `codexctl.exe`，一个文件即可。
+
 ## 用之前你需要准备
 
 1. 已安装 Codex，且 `~/.codex/` 目录存在（里面有 auth.json、config.toml）。
